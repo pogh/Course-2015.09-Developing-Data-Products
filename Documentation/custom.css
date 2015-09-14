@@ -1,0 +1,30 @@
+.section .reveal .state-background {
+    background: LightSkyBlue }
+.section .reveal h1,
+.section .reveal p {
+    color: black;
+    font-size: 75px;
+    position: relative;
+    top: 4%;}
+   
+.reveal .slides section .slideContent h2 {
+   color: black;
+}
+
+.reveal h3 { 
+  color: black;
+}
+
+.reveal .slides section .slideContent h4 {
+   color: black;
+}
+
+.reveal section p {
+  color: blue;
+  font-size: 75%;
+}
+
+.reveal ul, 
+.reveal ol {
+    font-size: 75%;
+}
